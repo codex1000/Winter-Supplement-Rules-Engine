@@ -44,7 +44,7 @@ This project implements a rules engine to determine eligibility and calculate th
    - On Windows: Use Command Prompt or PowerShell.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Winter-Supplement-Rules-Engine.git
+   git clone https://github.com/codex1000/Winter-Supplement-Rules-Engine.git
    ```
 3. Navigate to the project directory:
    ```bash
